@@ -5,7 +5,9 @@
 ## Languages & tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%230092AC.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-3776AB?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![ООП](https://img.shields.io/badge/ООП-%231572B6.svg?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
