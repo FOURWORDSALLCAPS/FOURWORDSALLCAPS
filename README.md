@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/luffy2232/" target="_blank">Vladimir</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Middle Python-Django Developer</h3>
+<h3 align="center">Python Developer</h3>
 
 ## Languages & tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
